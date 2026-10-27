@@ -1,0 +1,5 @@
+backend,workers,L,flips_per_ns
+openmp,1,2048,0.2192
+openmp,2,2048,0.4219
+mpi,1,2048,0.2085
+mpi,2,2048,0.4127

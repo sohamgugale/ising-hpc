@@ -1,0 +1,13 @@
+L,kernel,best_flips_per_ns,median_flips_per_ns
+256,baseline,0.0574,0.0520
+256,blocked,0.0963,0.0925
+256,batched,0.2197,0.2074
+512,baseline,0.0570,0.0566
+512,blocked,0.0952,0.0926
+512,batched,0.2165,0.2119
+1024,baseline,0.0602,0.0586
+1024,blocked,0.0944,0.0918
+1024,batched,0.2170,0.2096
+2048,baseline,0.0625,0.0596
+2048,blocked,0.0909,0.0891
+2048,batched,0.2226,0.2140
